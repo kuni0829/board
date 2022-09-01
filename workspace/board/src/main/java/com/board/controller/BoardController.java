@@ -42,14 +42,8 @@ public class BoardController {
 	  return "redirect:/board/list";
 	}
 	
-	/*
-	 * // 게시물 조회
-	 * 
-	 * @RequestMapping(value = "/view", method = RequestMethod.GET) public void
-	 * getView() throws Exception {
-	 * 
-	 * service.view(bno); }
-	 */
+	// test
+	
 }
 
 

@@ -31,6 +31,7 @@ public class BoardDAOlmpl implements BoardDAO {
 		sql.insert(namespace + ".write", vo);
 	}
 
+	@Override
 	// 게시물 조회
 	public BoardVO view(int bno) throws Exception {
 		
