@@ -1,0 +1,11 @@
+package com.board.service;
+
+public class BoardServicelmpl implements BoardService {
+	
+	@Override
+	public List<BoardVO> list() throws Exception {
+		
+		return null;
+	}
+
+}
