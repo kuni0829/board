@@ -13,8 +13,9 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-.MF
-pom.properties
+META-INF/MANIFEST.MF
+META-INF/pom.properties
+spring/root-context.xml
 
 # External tool builders
 .externalToolBuilders/
